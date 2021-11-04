@@ -84,13 +84,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Investigated the cause of low performance of few-shot object detectors and proposed a novelattention module that brings a 49% performance boost without the loss of computational efficiency.
 
-      - layout: left
-        title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
-        link: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
-        quote: >
-          Medical Imaging meets NeurIPS (NeurIPS 2019 Workshops)
-        description: | # this will include new lines to allow paragraphs
-          Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
+      # - layout: left
+      #   title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
+      #   link: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
+      #   quote: >
+      #     Medical Imaging meets NeurIPS (NeurIPS 2019 Workshops)
+      #   description: | # this will include new lines to allow paragraphs
+      #     Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -110,16 +110,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: National Taiwan University
+        caption: 2019 - 2021
+        sub_title: M.S., Computer Science and Information Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          in Communications and Multimedia Lab, under supervision of Prof. Winston Hsu
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+        
+      - layout: left
+        title: National Taiwan University
+        caption: 2019 - 2021
+        sub_title: M.S., Computer Science and Information Engineering
+        quote: >
+          in Communications and Multimedia Lab, under supervision of Prof. Winston Hsu
+        description: | # this will include new lines to allow paragraphs
+          
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
