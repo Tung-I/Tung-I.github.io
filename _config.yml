@@ -109,20 +109,20 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: National Taiwan University
         caption: 2019 - 2021
         sub_title: M.S., Computer Science and Information Engineering
         quote: >
-          in Communications and Multimedia Lab, under supervision of Prof. Winston Hsu
+          Study in Communications and Multimedia Lab, under supervision of Prof. Winston Hsu
         description: | # this will include new lines to allow paragraphs
-        
-      - layout: left
-        title: National Taiwan University
-        caption: 2019 - 2021
-        sub_title: M.S., Computer Science and Information Engineering
+
+      - layout: top-middle
+        title: National Cheng Kung University
+        caption: 2015 - 2019
+        sub_title: B.S., Biomedical Engineering
         quote: >
-          in Communications and Multimedia Lab, under supervision of Prof. Winston Hsu
+          Study in Medical Ultrasound Imaging Lab, under supervision of Prof. Chih-Chung Huang
         description: | # this will include new lines to allow paragraphs
           
   # - title: A Little More About Me
