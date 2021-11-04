@@ -102,39 +102,40 @@ content:
         sub_title: 
         caption: Jul. 2017 - Aug. 2017
         quote: >
-          Communications and Multimedia Lab, National Taiwan University
+          Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
         description: | # this will include new lines to allow paragraphs
           Project: Learning 6-DoF Task-Oriented Grasping for Manipulation Tasks
+           - Built a novel end-to-end 6-DoF grasp detector that is twenty times faster and more accurate than previous end-to-end learning-based approaches on unseen cluttered objects.
 
       - layout: left
         title: Visiting Student
         link: 
         # link_text: boringcompany.com
-        sub_title: University of Southern California
+        sub_title: 
         caption: Jul. 2017 - Aug. 2017
         quote: >
-          Department of Biomedical Engineering, University of Southern California
+          Department of Biomedical Engineering, University of Southern California, LA, CA
         description: | # this will include new lines to allow paragraphs
             Project: Acoustic Tweezers to Manipulate Cells
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: National Taiwan University
-        caption: 2019 - 2021
-        sub_title: M.S., Computer Science and Information Engineering
-        quote: >
-          in Communications and Multimedia Lab under supervision of Prof. Winston Hsu
-        description: | # this will include new lines to allow paragraphs
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: National Taiwan University
+  #       caption: 2019 - 2021
+  #       sub_title: M.S., Computer Science and Information Engineering
+  #       quote: >
+  #         in Communications and Multimedia Lab under supervision of Prof. Winston Hsu
+  #       description: | # this will include new lines to allow paragraphs
 
-      - layout: top-middle
-        title: National Cheng Kung University
-        caption: 2015 - 2019
-        sub_title: B.S., Biomedical Engineering
-        quote: >
-          in Medical Ultrasound Imaging Lab under supervision of Prof. Chih-Chung Huang
-        description: | # this will include new lines to allow paragraphs
+  #     - layout: top-middle
+  #       title: National Cheng Kung University
+  #       caption: 2015 - 2019
+  #       sub_title: B.S., Biomedical Engineering
+  #       quote: >
+  #         in Medical Ultrasound Imaging Lab under supervision of Prof. Chih-Chung Huang
+  #       description: | # this will include new lines to allow paragraphs
           
   # - title: A Little More About Me
   #   layout: text
