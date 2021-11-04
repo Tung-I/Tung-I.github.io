@@ -59,7 +59,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: "ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception"
         link: https://arxiv.org/abs/2108.01477
         # link_text: Project Website
@@ -72,11 +72,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Developed a system where an object detector can generalize to novel domains without any human-annotated data by learning from visual observations collected by a grasping system.
 
-      - layout: top-middle
+      - layout: left
         title: "Dual-Awareness Attention for Few-Shot Object Detection"
         link: https://arxiv.org/abs/2102.12152
         quote: >
-          In IEEE Transactions on Multimedia (TMM 2021)
+          IEEE Transactions on Multimedia (TMM 2021)
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Investigated the cause of low performance of few-shot object detectors and proposed a novelattention module that brings a 49% performance boost without the loss of computational efficiency.
 
-      - layout: top-middle
+      - layout: left
         title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
         link: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
         quote: >
