@@ -9,7 +9,7 @@ version: 2
 name: Tung-I Chen
 title: Research Assistant
 email: r08922a09@ntu.edu.tw
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ github_username:  Tung-I
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Tung-I Chen
+linkedin_username: www.linkedin.com/in/tung-i-chen-623638225
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
