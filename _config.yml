@@ -67,21 +67,30 @@ content:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: https://arxiv.org/abs/2108.01477
-        # quote: >
-        #   [arXiv](https://arxiv.org/abs/2108.01477)
+        quote: >
+          IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Developed a system where an object detector can generalize to novel domains without any human-annotated data by learning from visual observations collected by a grasping system.
 
       - layout: top-middle
         title: "Dual-Awareness Attention for Few-Shot Object Detection"
         link: https://arxiv.org/abs/2102.12152
-        # link_text: Project Website
+        quote: >
+          In IEEE Transactions on Multimedia (TMM 2021)
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and i
+          Investigated the cause of low performance of few-shot object detectors and proposed a novelattention module that brings a 49% performance boost without the loss of computational efficiency.
+
+      - layout: top-middle
+        title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
+        link: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
+        quote: >
+          Medical Imaging meets NeurIPS (NeurIPS 2019 Workshops)
+        description: | # this will include new lines to allow paragraphs
+          Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
