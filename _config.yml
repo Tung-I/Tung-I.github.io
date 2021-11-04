@@ -50,9 +50,11 @@ linkedin_username: tung-i-chen-623638225
 # about_title: About Me
 about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Tung-I Chen is currently a Research Assistant at National Taiwan University (NTU), where he works in Communications and Multimedia Lab (CMLab).
-  He received his M.S. degree in Computer Science and Information Engineering (CSIE) in 2021
-  and his B.S. degree in Biomedical Engineering (BME) in 2019. His research interests include Computer Vision, Optimization and Reinforcement Learning.
+  I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
+  I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
+  While working on my master's degree, I was involved in research in Computer Vision with a focus on Object Detection and Meta Learning. 
+  Currently, I have profound interests in machine learning and optimization theory.
+  I am primarily interested in developing reinforcement learning agents robust to environmental shifts.
 
 
 content:
@@ -92,7 +94,7 @@ content:
       #   description: | # this will include new lines to allow paragraphs
       #     Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
 
-  - title: Experience # Title for the section
+  - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -100,13 +102,14 @@ content:
         link: 
         # link_text: boringcompany.com
         sub_title: 
-        caption: Jul. 2017 - Aug. 2017
+        caption: Aug. 2021 - Present
         quote: >
           Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
         description: | # this will include new lines to allow paragraphs
           Project: Learning 6-DoF Task-Oriented Grasping for Manipulation Tasks
            - Built a novel end-to-end 6-DoF grasp detector that is twenty times faster and more accurate than previous end-to-end learning-based approaches on unseen cluttered objects.
-
+           - Demonstrated online few-shot learning that a robotic arm firstly picks up an unseen objectin front of a camera and an object detector can be improved according to newly captured images.
+           - Proposed a referring algorithm that can reason human’s instructions and enable robotic arms to understand the concept of relative object positions.
       - layout: left
         title: Visiting Student
         link: 
@@ -117,6 +120,32 @@ content:
           Department of Biomedical Engineering, University of Southern California, LA, CA
         description: | # this will include new lines to allow paragraphs
             Project: Acoustic Tweezers to Manipulate Cells
+            - Leveraged ultrasound to trap micro-particles and thus can move them without mechanicalcontact, preventing damage to micro-particles.
+
+  - title: Awards & Honors # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Future Tech Awards
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 2020, 2021, 2 times
+        quote: >
+          Taiwan Innovation Technology Exposition, Taipei, Taiwan
+        description: | # this will include new lines to allow paragraphs
+           - “ODIP: Object Detection by Interactive Perception”
+           - “3D Object Referring and Grasp Detection Networks”
+      - layout: left
+        title: Oral Presentation
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 2018
+        quote: >
+          Global Conference on Biomedical Engineering, Taoyuan, , Taiwan
+        description: | # this will include new lines to allow paragraphs
+           - “Real-Time Two Dimensional Blood Flow Imaging Using an Vector Doppler Imaging Technique withHigh-Frequency Ultrasound System” 
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
