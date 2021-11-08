@@ -62,12 +62,12 @@ content:
     content:
       - layout: left
         title: "ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception"
-        link: https://arxiv.org/abs/2108.01477
+        link: 
         # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: https://arxiv.org/abs/2108.01477
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: far fa-file-pdf
+            url: https://arxiv.org/abs/2108.01477
         quote: >
           IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
         description: | # this will include new lines to allow paragraphs
@@ -75,10 +75,13 @@ content:
 
       - layout: left
         title: "Dual-Awareness Attention for Few-Shot Object Detection"
-        link: https://arxiv.org/abs/2102.12152
+        link: 
         quote: >
           IEEE Transactions on Multimedia (TMM 2021)
         additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: far fa-file-pdf
+            url: https://arxiv.org/abs/2102.12152
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection
