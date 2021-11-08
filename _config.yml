@@ -52,9 +52,8 @@ about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
   I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
-  While working on my master's degree, I was involved in research in Computer Vision with a focus on Object Detection and Meta Learning. 
-  Currently, I have profound interests in machine learning and optimization theory.
-  I am primarily interested in developing reinforcement learning agents robust to environmental shifts.
+  During my Master's years, I was involved in research in Computer Vision with a focus on Object Detection and Meta Learning. 
+  Currently, I have profound interests in optimization and game theory, and I am looking for a PhD position. 
 
 
 content:
@@ -86,13 +85,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Investigated the cause of low performance of few-shot object detectors and proposed a novelattention module that brings a 49% performance boost without the loss of computational efficiency.
 
-      # - layout: left
-      #   title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
-      #   link: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
-      #   quote: >
-      #     Medical Imaging meets NeurIPS (NeurIPS 2019 Workshops)
-      #   description: | # this will include new lines to allow paragraphs
-      #     Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
+      - layout: left
+        title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
+        link: 
+        quote: >
+          Medical Imaging meets NeurIPS (NeurIPS 2019 Workshops)
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: far fa-file-pdf
+            url: https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf
+        description: | # this will include new lines to allow paragraphs
+          Proposed a volume-aware Dice Loss that re-weights foregrounds across mini-batch accordingto sizes of target regions to facilitate the segmentation on small tumors.
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -117,7 +120,7 @@ content:
         sub_title: 
         caption: Jul. 2017 - Aug. 2017
         quote: >
-          Department of Biomedical Engineering, University of Southern California, LA, CA
+          Department of Biomedical Engineering, University of Southern California, Los Angeles, CA 
         description: | # this will include new lines to allow paragraphs
             Project: Acoustic Tweezers to Manipulate Cells
             - Leveraged ultrasound to trap micro-particles and thus can move them without mechanicalcontact, preventing damage to micro-particles.
