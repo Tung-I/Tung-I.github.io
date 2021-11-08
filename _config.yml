@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
   I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
   During my Master's years, I was involved in research in Computer Vision with a focus on Object Detection and Meta Learning. 
-  Currently, I have profound interests in optimization and game theory, and I am looking for a PhD position. 
+  Currently, I have profound interests in optimization and game theory and I am looking for a PhD position. 
 
 
 content:
@@ -164,6 +164,10 @@ content:
         caption: 2018
         quote: >
           Global Conference on Biomedical Engineering, Taoyuan, , Taiwan
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: far fa-file-powerpoint
+            url: https://docs.google.com/presentation/d/1kXhBWk8gdnHvD_-xbsCo40wpE9OOk36x421Jm2bKv-4/edit?usp=sharing
         description: | # this will include new lines to allow paragraphs
            - “Real-Time Two Dimensional Blood Flow Imaging Using an Vector Doppler Imaging Technique withHigh-Frequency Ultrasound System” 
 
