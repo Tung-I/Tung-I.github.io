@@ -111,6 +111,10 @@ content:
         caption: Aug. 2021 - Present
         quote: >
           Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: far fa-file-video
+            url: https://drive.google.com/file/d/1FlyoccjYKTAMFEuxdnOz28x-pZMzXzLx/view?usp=sharing
         description: | # this will include new lines to allow paragraphs
           Project: Learning 6-DoF Task-Oriented Grasping for Manipulation Tasks
            - Built a novel end-to-end 6-DoF grasp detector that is twenty times faster and more accurate than previous end-to-end learning-based approaches on unseen cluttered objects.
@@ -128,7 +132,7 @@ content:
             Project: Acoustic Tweezers to Manipulate Cells
             - Leveraged ultrasound to trap micro-particles and thus can move them without mechanicalcontact, preventing damage to micro-particles.
 
-  - title: Awards & Honors # Title for the section
+  - title: Awards & Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -142,6 +146,16 @@ content:
         description: | # this will include new lines to allow paragraphs
            - “ODIP: Object Detection by Interactive Perception”
            - “3D Object Referring and Grasp Detection Networks”
+      - layout: left
+        title: Poster Presentation
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 2019
+        quote: >
+          NeurIPS Workshops, Vancouver, Canada
+        description: | # this will include new lines to allow paragraphs
+           - “Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation” 
       - layout: left
         title: Oral Presentation
         link: 
