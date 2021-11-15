@@ -52,7 +52,7 @@ about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
   I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
-  During my Master's years, I was involved in research in Computer Vision with a focus on object detection and meta learning. 
+  During my Master's years, I was involved in research in computer vision with a focus on object detection and meta learning. 
   Currently, I have profound interests in statistical machine learning and reinforcement learning, and I am looking for a PhD position. 
 
 
@@ -71,7 +71,7 @@ content:
         quote: >
           IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
         description: | # this will include new lines to allow paragraphs
-          Developed a system where an object detector can generalize to novel domains without any human-annotated data by learning from visual observations collected by a grasping system.
+          Developed a system where an object detector can be dynamically adapted to current workflows without human-annotated data by leveraging a grasping system to collect visual observations. 
 
       - layout: left
         title: "Dual-Awareness Attention for Few-Shot Object Detection"
@@ -86,7 +86,7 @@ content:
             icon: fab fa-github
             url: https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection
         description: | # this will include new lines to allow paragraphs
-          Investigated the cause of low performance of few-shot object detectors and proposed a novelattention module that brings a 49% performance boost without the loss of computational efficiency.
+          Investigated the critical issues causing low performance in few-shot object detection and proposed a novel attention module to solve theses issues and bring a 49% performance boost.
 
       - layout: left
         title: "Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation"
