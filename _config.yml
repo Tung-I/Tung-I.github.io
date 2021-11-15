@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
   I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
   During my Master's years, I was involved in research in computer vision with a focus on object detection and meta learning. 
-  Currently, I have profound interests in statistical machine learning and reinforcement learning, and I am looking for a PhD position. 
+  I am currently interested in optimization, statistical machine learning, and reinforcement learning, and I am looking for a PhD position.
 
 
 content:
@@ -132,7 +132,7 @@ content:
             Project: Acoustic Tweezers to Manipulate Cells
             - Leveraged ultrasound to trap micro-particles and thus can move them without mechanicalcontact, preventing damage to micro-particles.
 
-  - title: Awards & Activities # Title for the section
+  - title: Honors & Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
