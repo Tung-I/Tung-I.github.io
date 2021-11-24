@@ -52,8 +52,8 @@ about_profile_image: images/image.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Research Assistant at Communications and Multimedia Lab, National Taiwan University (NTU).
   I received my M.S. degree in Computer Science and Information Engineering (CSIE) in 2021 and my B.S. degree in Biomedical Engineering (BME) in 2019.
-  During my Master's years, I was involved in research in computer vision with a focus on object detection and meta learning. 
-  I am currently interested in optimization, statistical machine learning, and reinforcement learning, and I am looking for a PhD position.
+  During my Master's years, I was involved in research in computer vision with a focus on object detection and meta-learning. 
+  I am currently interested in optimization and sequential decision-making, and I am looking for a PhD position.
 
 
 content:
@@ -135,6 +135,16 @@ content:
   - title: Honors & Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Journal Reviewer
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 2021
+        quote: >
+          IEEE Transactions on Neural Networks and Learning Systems
+        description: | # this will include new lines to allow paragraphs
+           
       - layout: left
         title: Future Tech Awards
         link: 
