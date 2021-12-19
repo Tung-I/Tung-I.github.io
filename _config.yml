@@ -36,6 +36,10 @@ plugins:
   - jekyll-include-cache
   # - jekyll-feed
 
+header:
+  overlay_image: /assets/images/trees.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 author:
   name: "Tung-I Chen"
   avatar: "/assets/images/tungichen.jpg"
