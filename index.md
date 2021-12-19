@@ -7,7 +7,8 @@ classes: wide
 
 title: About Me
 header:
-  teaser: /assets/images/trees.jpg
+  overlay_image: /assets/images/trees.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 Tung-I Chen is a Research Assistant at Communications and Multimedia Lab, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/). He was fortunate to be advised by Prof. [Winston Hsu](https://winstonhsu.info/) and received his M.S. degree in Computer Science and Information Engineering (CSIE) in 2021. Before that, he received his B.S. degree in Biomedical Engineering (BME) at [National Cheng Kung University](https://www.ncku.edu.tw/) in 2019. During his Master’s years, He was involved in research at the intersection of computer vision and deep learning, with a focus on object detection and meta-learning problems. His research interest currently lies in large-scale optimization and sequential decision-making problems, and he is looking for a PhD position.
 
