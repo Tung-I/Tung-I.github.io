@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/trees.jpg
 classes: wide
 title: Publications
+permalink: /publications/
 ---
 - **ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception**
     <br>

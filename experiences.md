@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/trees.jpg
 classes: wide
 title: Experiences
+permalink: /experiences/
 ---
 
 - **Research Assistant**
