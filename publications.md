@@ -9,7 +9,7 @@ classes: wide
 title: Publications
 permalink: /publications/
 header:
-  overlay_image: /assets/images/trees.jpg
+  overlay_image: /assets/images/grey_cloud.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 - **ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception**

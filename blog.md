@@ -12,5 +12,15 @@ title: Blog
 #   actions:
 #     - label: "More Info"
 #       url: "https://unsplash.com"
+
 ---
-under construction
+
+<!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+[publication](/publications/)
+
+
+fawefawef <br>
+$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$ <br>
+eggergawefwe

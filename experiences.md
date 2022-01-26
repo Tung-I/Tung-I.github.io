@@ -9,7 +9,7 @@ classes: wide
 title: Experiences
 permalink: /experiences/
 header:
-  overlay_image: /assets/images/trees.jpg
+  overlay_image: /assets/images/grey_cloud.jpg
 ---
 
 - **Research Assistant**
