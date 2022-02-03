@@ -31,7 +31,7 @@ github_username:  Tung-I
 # theme: minima
 # theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 plugins:
   - jekyll-include-cache
   # - jekyll-feed
@@ -43,7 +43,7 @@ header:
 author:
   name: "Tung-I Chen"
   avatar: "/assets/images/tungichen.jpg"
-  bio: "RA, National Taiwan University" # Note: Markdown is allowed
+  bio: "Research Assistent, National Taiwan University" # Note: Markdown is allowed
   location: "Tainan, Taiwan"
   links:
     - label: "Resume"
