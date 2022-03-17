@@ -13,5 +13,5 @@ author_profile: true
 {% include figure image_path="/assets/images/mab_illustration.jpg" alt="this is a placeholder image" caption="image from \"https://vwo.com/blog/multi-armed-bandit-algorithm/\" " %} 
 
 
-**MAB (multi-armed bandits)** is a simple yet powerful framework for algorithms making decisions over time under uncertainty. The name comes from the slot machines in casinos, aka one-armed bandit.
+<!-- **MAB (multi-armed bandits)** is a simple yet powerful framework for algorithms making decisions over time under uncertainty. The name comes from the slot machines in casinos, aka one-armed bandit. -->
 
