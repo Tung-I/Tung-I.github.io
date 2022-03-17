@@ -36,9 +36,9 @@ plugins:
   - jekyll-include-cache
   # - jekyll-feed
 
-header:
-  overlay_image: /assets/images/grey_cloud.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# header:
+#   overlay_image: /assets/images/grey_cloud.jpg
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 author:
   name: "Tung-I Chen"
@@ -46,15 +46,15 @@ author:
   bio: "Research Assistent, National Taiwan University" # Note: Markdown is allowed
   location: "Tainan, Taiwan"
   links:
-    - label: "Resume"
-      icon: "fas fa-fw fa-link"
-      url: "/assets/pdf/Tung_CV.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tungi851230"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tung-I"
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "/assets/pdf/Tung_CV.pdf"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/mmistakes"
