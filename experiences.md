@@ -3,13 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-header:
-  teaser: /assets/images/trees.jpg
 classes: wide
 title: Experiences
 permalink: /experiences/
-header:
-  overlay_image: /assets/images/grey_cloud.jpg
 ---
 
 - **Research Assistant**

@@ -3,5 +3,5 @@ main:
   #   url: /publications
   # - title: "Blog"
   #   url: /blog
-  - title: "Experiences"
-    url: /experiences
+  # - title: "Experiences"
+  #   url: /experiences

@@ -960,7 +960,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__content h2 { padding-bottom: 0.5em; border-bottom: 1px solid #bfbfbf; }
 .page__content h1 .header-link, .page__content h2 .header-link, .page__content h3 .header-link, .page__content h4 .header-link, .page__content h5 .header-link, .page__content h6 .header-link { position: relative; left: 0.5em; opacity: 0; font-size: 0.8em; -webkit-transition: opacity 0.2s ease-in-out 0.1s; -moz-transition: opacity 0.2s ease-in-out 0.1s; -o-transition: opacity 0.2s ease-in-out 0.1s; transition: opacity 0.2s ease-in-out 0.1s; }
 .page__content h1:hover .header-link, .page__content h2:hover .header-link, .page__content h3:hover .header-link, .page__content h4:hover .header-link, .page__content h5:hover .header-link, .page__content h6:hover .header-link { opacity: 1; }
-.page__content p, .page__content li, .page__content dl { font-size: 0.85em; }
+.page__content p, .page__content li, .page__content dl { font-size: 0.76em; }
 .page__content p { margin: 0 0 1.3em; /* sibling indentation*/ }
 .page__content a:not(.btn):hover { text-decoration: underline; }
 .page__content a:not(.btn):hover img { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
@@ -1196,7 +1196,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 /* Author profile and links ========================================================================== */
 .author__avatar { display: table-cell; vertical-align: top; width: 36px; height: 36px; }
 @media (min-width: 64em) { .author__avatar { display: block; width: auto; height: auto; } }
-.author__avatar img { max-width: 180px; border-radius: 5%; }
+.author__avatar img { max-width: 160px; border-radius: 0%; }
 @media (min-width: 64em) { .author__avatar img { padding: 0px; border: 0px solid #bfbfbf; } }
 
 .author__content { display: table-cell; vertical-align: top; padding-left: 15px; padding-right: 25px; line-height: 1; }

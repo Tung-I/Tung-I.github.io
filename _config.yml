@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 repository: Tung-I/Tung-I.github.io
-title: Home
+title:  Home
 email: r08922a09@csie.ntu.edu.tw
 description: >- # this means to ignore newlines until "baseurl:"
   None.
@@ -43,7 +43,7 @@ plugins:
 author:
   name: "Tung-I Chen"
   avatar: "/assets/images/tungichen.jpg"
-  bio: "Research Assistent, National Taiwan University" # Note: Markdown is allowed
+  bio: "Research Assistent, <br> National Taiwan University" # Note: Markdown is allowed
   location: "Tainan, Taiwan"
   links:
     - label: "Twitter"
@@ -52,12 +52,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tung-I"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "/assets/pdf/Tung_CV.pdf"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
+# https://fontawesome.com/icons
 
 # Exclude from processing.
 # The following items will not be processed, by default.
