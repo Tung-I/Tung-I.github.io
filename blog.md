@@ -20,7 +20,7 @@ author_profile: true
 <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
 
 ### Multi-Armed Bandits
-[(0) Introduction - What is MAB problems?](/blog_archive/mab_0)
+[(0) Introduction - What is the MAB problem?](/blog_archive/mab_0)
 
 
 <!-- fawefawef <br>
