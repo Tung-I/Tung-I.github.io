@@ -1,8 +1,8 @@
 main:
   - title: "Publications"
-    url: /index/#publications
+    url: /#publications
   - title: "Experiences"
-    url: /index/#experiences
+    url: /#experiences
   - title: "Blog"
     url: /blog
     # children:
