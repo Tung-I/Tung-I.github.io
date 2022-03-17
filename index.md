@@ -5,7 +5,6 @@
 author_profile: true
 layout: single
 classes: wide
-permalink: /
 
 # title: "Posts by Year"
 # permalink: /year-archive/
