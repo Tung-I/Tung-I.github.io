@@ -1,7 +1,10 @@
 main:
-  # - title: "Publications"
-  #   url: /publications
+  - title: "Publications"
+    url: /index/#publications
+  - title: "Experiences"
+    url: /index/#experiences
   # - title: "Blog"
   #   url: /blog
-  # - title: "Experiences"
-  #   url: /experiences
+    # children:
+    #   - title: "(0) Introduction - What is MAB problems?"
+    #     url: /blog_archive/mab_0
