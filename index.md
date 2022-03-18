@@ -77,7 +77,7 @@ I am a research assistant at the Communications and Multimedia Lab, [National Ta
     Biomedical Engineering, National Cheng Kung University, Tainan, Taiwan
 
 
-## Activities and Honors
+<!-- ## Activities and Honors
 **Journal Reviewer, 2021**
     <br>
     IEEE Transactions on Neural Networks and Learning Systems
@@ -100,5 +100,5 @@ I am a research assistant at the Communications and Multimedia Lab, [National Ta
 
 **Presidential Awards, 2015 - 2019**
     <br>
-    Among top 5% in academics performance every school year
+    Among top 5% in academics performance every school year -->
 
