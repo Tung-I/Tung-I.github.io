@@ -5,6 +5,6 @@ main:
   #   url: /#publications
   # - title: "Experiences"
   #   url: /#experiences
-    # children:
-    #   - title: "(0) Introduction - What is MAB problems?"
-    #     url: /blog_archive/mab_0
+  #   children:
+  #     - title: "(0) Introduction - What is MAB problems?"
+  #       url: /blog_archive/mab_0
