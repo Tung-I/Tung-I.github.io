@@ -19,6 +19,9 @@ classes: wide
 
 I am a first-year PhD student in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where I am advised by [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before enrolling at UMass, I was a research assistant and Master student at the [Communications and Multimedia Lab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php),  National Taiwan University (NTU), where I was advised by Prof. [Winston Hsu](https://winstonhsu.info/). 
 
+I work at the intersection of computer vision and networking, with an emphasis on problems that hold implications for Domain Adaptation, Efficient DNNs, and Content Delivery Network (CDN). From a perspective of computer vision, I am interested in designing adaptive ML models, particularly of the problem scenarios where tasks are coming in a sequential and online manner. On the application side, I am especially interested in efforts which promote the use of DNNs for industry, such as neural adaptive content delivery and intelligent caching.  
+
+
 
 
 ## Publications
@@ -65,7 +68,7 @@ I am a first-year PhD student in the Manning College of Information and Computer
 
 **Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation**
     <br>
-    Yu-Cheng Chang, Jhih-Yuan Lin, Min-Sheng Wu, Tung-I Chen, Winston Hsu
+    Yu-Cheng Chang, Jhih-Yuan Lin, Min-Sheng Wu, **Tung-I Chen**, Winston Hsu
     <br>
     Medical Imaging meets NeurIPS (NeurIPS Workshops), 2019
     <br>
@@ -73,7 +76,7 @@ I am a first-year PhD student in the Manning College of Information and Computer
 
 **Anomaly-Aware Semantic Segmentation by Leveraging Synthetic-Unknown Data**
     <br>
-    Guan-Rong Lu, Yueh-Cheng Liu, Tung-I Chen, Hung-Ting Su, Tsung-Han Wu, Winston Hsu
+    Guan-Rong Lu, Yueh-Cheng Liu, **Tung-I Chen**, Hung-Ting Su, Tsung-Han Wu, Winston Hsu
     <br>
     arXiv Preprint, 2021
     <br>
