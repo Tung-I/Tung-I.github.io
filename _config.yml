@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 repository: Tung-I/Tung-I.github.io
 title:  Home
-email: r08922a09@csie.ntu.edu.tw
+email: tungichen@umass.edu
 description: >- # this means to ignore newlines until "baseurl:"
   None.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -43,7 +43,7 @@ plugins:
 author:
   name: "Tung-I Chen"
   avatar: "/assets/images/tungichen.jpg"
-  bio: "Research Assistent, <br> National Taiwan University" # Note: Markdown is allowed
+  bio: "PhD student, <br> UMass Amherst" # Note: Markdown is allowed
   location: "Tainan, Taiwan"
   links:
     - label: "Twitter"

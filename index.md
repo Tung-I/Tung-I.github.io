@@ -17,12 +17,14 @@ classes: wide
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I am a research assistant at the Communications and Multimedia Lab, [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/). In my master's study, I was fortunate to be advised by Prof. [Winston Hsu](https://winstonhsu.info/). My research interest lies in developing generalizable models or algorithms that can tackle uncertainty under dynamic environments. I am highly interested in online optimization and sequential decision-making problems.
+I am a first-year PhD student in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where I am advised by [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before enrolling at UMass, I was a research assistant and Master student at the [Communications and Multimedia Lab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php),  National Taiwan University (NTU), where I was advised by Prof. [Winston Hsu](https://winstonhsu.info/). 
+
+
 
 ## Publications
 **ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception**
     <br>
-    Tung-I Chen, Hung-Ting Su, Tsung-Han Wu, Winston Hsu
+    **Tung-I Chen**, J.-W. Wang, Winston H. Hsu
     <br>
     IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
     <br>
@@ -30,11 +32,36 @@ I am a research assistant at the Communications and Multimedia Lab, [National Ta
 
 **Dual-Awareness Attention for Few-Shot Object Detection**
     <br>
-    Tung-I Chen, Yueh-Cheng Liu, Hung-Ting Su, Y.-C. Chang, Y.-H. Lin, J.-F. Yeh, Winston Hsu
+    **Tung-I Chen**, Y.-C. Liu, H.-T. Su, Y.-C. Chang, Y.-H. Lin, J.-F. Yeh, Winston Hsu
     <br>
     IEEE Transactions on Multimedia (TMM), 2021
     <br>
     \[[Paper](https://arxiv.org/abs/2102.12152), [Code](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)\]
+
+**CFVS: Coarse-to-Fine Visual Servoing for 6-DoF Object-Agnostic Peg-In-Hole Assembly**
+    <br>
+    Bo-Siang Lu, **Tung-I Chen**, H.-Y. Lee, Winston H Hsu
+    <br>
+    IEEE Robotics and Automation Society (ICRA), 2023
+    <br>
+    \[[Paper](https://arxiv.org/abs/2209.08864)\]
+
+**Coarse-to-Fine Point Cloud Registration with SE (3)-Equivariant Representations**
+    <br>
+    Cheng-Wei Lin, **Tung-I Chen**, H.-Y. Lee, W.-C. Chen, Winston H Hsu
+    <br>
+    IEEE Robotics and Automation Society (ICRA), 2023
+    <br>
+    \[[Paper](https://arxiv.org/abs/2210.02045)\]
+
+
+**D2ADA: Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation**
+    <br>
+    Tsung-Han Wu, Y.-S. Liou, S.-J. Yuan, H.-Y. Lee, **Tung-I Chen**, K.-C. Huang, Winston H Hsu
+    <br>
+    IEEE / CVF Computer Vision and Pattern Recognition (CVPR), 2022
+    <br>
+    \[[Paper](https://arxiv.org/abs/2202.06484)\]
 
 **Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation**
     <br>
@@ -51,12 +78,6 @@ I am a research assistant at the Communications and Multimedia Lab, [National Ta
     arXiv Preprint, 2021
     <br>
     \[[Paper](https://arxiv.org/abs/2111.14343)\]
-
-**Adaptive Density-Aware Active Domain Adaptation for Semantic Segmentation**
-    <br>
-    Tsung-Han Wu, Yi-Syuan Liou, Ricky Yuan, Hsin-Ying Lee, Tung-I Chen, Winston Hsu
-    <br>
-    Under Submission, 2021
 
 
 ## Experiences

@@ -6,12 +6,13 @@
 # permalink: /blog/
 # classes: wide
 # title: Blog
-
-title: "Blog"
-layout: single
-permalink: /blog/
-classes: wide
-author_profile: true
+################################################################################
+# title: "Blog"
+# layout: single
+# permalink: /blog/
+# classes: wide
+# author_profile: true
+################################################################################
 # entries_layout: grid
 
 ---
@@ -19,8 +20,10 @@ author_profile: true
 <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
 <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
 
-### Multi-Armed Bandits
-[(0) Introduction - What is the MAB problem?](/blog_archive/mab_0)
+<!-- -->
+<!-- ### Multi-Armed Bandits
+[(0) Introduction - What is the MAB problem?](/blog_archive/mab_0) -->
+<!-- -->
 
 
 <!-- fawefawef <br>
