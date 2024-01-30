@@ -17,35 +17,22 @@ classes: wide
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I am a first-year PhD student in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst, where I am advised by [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before enrolling at UMass, I was a research assistant and Master student at the [Communications and Multimedia Lab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php),  National Taiwan University (NTU), where I was advised by Prof. [Winston Hsu](https://winstonhsu.info/). 
+I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, where I am working with Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Previously, I received a Master degree in Computer Science from National Taiwan University (NTU) where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
 
-I work at the intersection of computer vision and networking, with an emphasis on problems that hold implications for Domain Adaptation, Efficient DNNs, and Content Delivery Network (CDN). From a perspective of computer vision, I am interested in designing adaptive ML models, particularly of the problem scenarios where tasks are coming in a sequential and online manner. On the application side, I am especially interested in efforts which promote the use of DNNs for industry, such as neural adaptive content delivery and intelligent caching.  
+I am working at the intersection of video streaming and machine learning. My research focuses on using deep learning techniques to enable 3D volumetric video streaming under low-bandwidth and low-latency costraints. The project I am currently working on aims to explore immersive video conferencing systems where virtual and physical participants meet, sit in their seats, face each other and have natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render selected visual media (e.g., 360 videos, 3D graphics) with low latency. The challenge will be how to minimize bandwidth consumption and the latency of ML inference while preserving a satisfactory level of visual quality.
+
+Before starting my Ph.D., I've worked on applying few-shot learning to computer vision tasks, such as improving the generalizability and adaptability of an object detector.
 
 
 
 
-## Publications
-**ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception**
-    <br>
-    **Tung-I Chen**, J.-W. Wang, Winston H. Hsu
-    <br>
-    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
-    <br>
-    \[[Paper](https://arxiv.org/abs/2108.01477), [Video](https://www.youtube.com/watch?v=1E4JGFjqZP0)\]
-
-**Dual-Awareness Attention for Few-Shot Object Detection**
-    <br>
-    **Tung-I Chen**, Y.-C. Liu, H.-T. Su, Y.-C. Chang, Y.-H. Lin, J.-F. Yeh, Winston Hsu
-    <br>
-    IEEE Transactions on Multimedia (TMM), 2021
-    <br>
-    \[[Paper](https://arxiv.org/abs/2102.12152), [Code](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)\]
+## Selected Publications
 
 **CFVS: Coarse-to-Fine Visual Servoing for 6-DoF Object-Agnostic Peg-In-Hole Assembly**
     <br>
     Bo-Siang Lu, **Tung-I Chen**, H.-Y. Lee, Winston H Hsu
     <br>
-    IEEE Robotics and Automation Society (ICRA), 2023
+    Accepted by International Conference on Robotics and Automation (ICRA), 2023
     <br>
     \[[Paper](https://arxiv.org/abs/2209.08864)\]
 
@@ -53,49 +40,52 @@ I work at the intersection of computer vision and networking, with an emphasis o
     <br>
     Cheng-Wei Lin, **Tung-I Chen**, H.-Y. Lee, W.-C. Chen, Winston H Hsu
     <br>
-    IEEE Robotics and Automation Society (ICRA), 2023
+    Accepted by International Conference on Robotics and Automation (ICRA), 2023
     <br>
     \[[Paper](https://arxiv.org/abs/2210.02045)\]
 
-
-**D2ADA: Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation**
+**Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation**
     <br>
     Tsung-Han Wu, Y.-S. Liou, S.-J. Yuan, H.-Y. Lee, **Tung-I Chen**, K.-C. Huang, Winston H Hsu
     <br>
-    IEEE / CVF Computer Vision and Pattern Recognition (CVPR), 2022
+    Accepted by European Conference on Computer Vision (ECCV), 2022
     <br>
     \[[Paper](https://arxiv.org/abs/2202.06484)\]
 
-**Batch-Wise Dice Loss: Rethinking the Data Imbalance for Medical Image Segmentation**
-    <br>
-    Yu-Cheng Chang, Jhih-Yuan Lin, Min-Sheng Wu, **Tung-I Chen**, Winston Hsu
-    <br>
-    Medical Imaging meets NeurIPS (NeurIPS Workshops), 2019
-    <br>
-    \[[Paper](https://profs.etsmtl.ca/hlombaert/public/medneurips2019/73_CameraReadySubmission_Med_NeurIPS_2019.pdf)\]
 
-**Anomaly-Aware Semantic Segmentation by Leveraging Synthetic-Unknown Data**
+**Dual-Awareness Attention for Few-Shot Object Detection**
     <br>
-    Guan-Rong Lu, Yueh-Cheng Liu, **Tung-I Chen**, Hung-Ting Su, Tsung-Han Wu, Winston Hsu
+    **Tung-I Chen**, Y.-C. Liu, H.-T. Su, Y.-C. Chang, Y.-H. Lin, J.-F. Yeh, Winston Hsu
     <br>
-    arXiv Preprint, 2021
+    Accepted by IEEE Transactions on Multimedia (TMM), 2021 
     <br>
-    \[[Paper](https://arxiv.org/abs/2111.14343)\]
+    \[[Paper](https://arxiv.org/abs/2102.12152), [Code](https://github.com/Tung-I/Dual-awareness-Attention-for-Few-shot-Object-Detection)\]
+
+**ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception**
+    <br>
+    **Tung-I Chen**, J.-W. Wang, Winston H. Hsu
+    <br>
+    Accepted by International Conference on Intelligent Robots and Systems (IROS), 2021
+    <br>
+    \[[Paper](https://arxiv.org/abs/2108.01477), [Video](https://www.youtube.com/watch?v=1E4JGFjqZP0)\]
 
 
 ## Experiences
+**Teaching Assistant, Fall 2023**
+    <br>
+    CS578 Distributed Computing and Systems, UMass CICS
+**Ph.D. Student, Spring 2023-**
+    <br>
+    College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA
 **Research Assistant, 2021-2022**
     <br>
     Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
-
-**Master Student, 2019-2021**
+**M.S. Student, 2019-2021**
     <br>
     Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
-
-**Visiting Student, 2017**
+**Visiting Student, Summer 2017**
     <br>
     Department of BME in USC Viterbi School of Engineering, Los Angeles, CA
-
 **Undergraduate, 2015-2019**
     <br>
     Biomedical Engineering, National Cheng Kung University, Tainan, Taiwan
