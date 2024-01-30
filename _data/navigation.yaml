@@ -1,8 +1,9 @@
 main:
-  - title: "Research"
-    url: /research
-  - title: "Blog"
-    url: /blog
+  - title: "CV"
+    url: "/assets/pdf/Tung_I_CV_2024.pdf"
+    # url: /research
+  # - title: "Blog"
+  #   url: /blog
   # - title: "Publications"
   #   url: /#publications
   # - title: "Experiences"

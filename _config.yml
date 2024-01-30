@@ -43,8 +43,8 @@ plugins:
 author:
   name: "Tung-I Chen"
   avatar: "/assets/images/tungichen.jpg"
-  bio: "PhD student, <br> UMass Amherst" # Note: Markdown is allowed
-  location: "Tainan, Taiwan"
+  bio: "Ph.D. student, <br> UMass Amherst" # Note: Markdown is allowed
+  location: "Amherst, MA"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -57,7 +57,7 @@ author:
       url: "https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "/assets/pdf/Tung_CV.pdf"
+      url: "/assets/pdf/Tung_I_CV_2024.pdf"
 # https://fontawesome.com/icons
 
 # Exclude from processing.
