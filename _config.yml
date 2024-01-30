@@ -42,7 +42,7 @@ plugins:
 
 author:
   name: "Tung-I Chen"
-  avatar: "/assets/images/tungichen.jpg"
+  avatar: "/assets/images/tungichen.png"
   bio: "Ph.D. student, <br> UMass Amherst" # Note: Markdown is allowed
   location: "Amherst, MA"
   links:
