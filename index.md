@@ -19,7 +19,7 @@ classes: wide
 
 I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, where I am working with Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Previously, I received a Master degree in Computer Science from National Taiwan University (NTU) where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
 
-I am working at the intersection of video streaming and machine learning. My research focuses on using deep learning techniques to enable 3D volumetric video streaming under low-bandwidth and low-latency costraints. The project I am currently working on aims to explore immersive video conferencing systems where virtual and physical participants meet, sit in their seats, face each other and have natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render selected visual media (e.g., 360 videos, 3D graphics) with low latency. The challenge will be how to minimize bandwidth consumption and the latency of ML inference while preserving a satisfactory level of visual quality.
+I am working at the intersection of video streaming and machine learning. Currently, my researh focuses on immersive video conferencing systems where remote and physical participants can meet, face each other, and have natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render 3D visual media with low latency. The challenge is to minimize bandwidth consumption and the latency of machine learning inference while preserving a satisfactory level of visual quality.
 
 Before starting my Ph.D., I've worked on applying few-shot learning to computer vision tasks, such as improving the generalizability and adaptability of an object detector.
 
@@ -74,18 +74,23 @@ Before starting my Ph.D., I've worked on applying few-shot learning to computer 
 **Teaching Assistant, Fall 2023**
     <br>
     CS578 Distributed Computing and Systems, UMass CICS
+
 **Ph.D. Student, Spring 2023-**
     <br>
     College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA
+
 **Research Assistant, 2021-2022**
     <br>
     Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
+
 **M.S. Student, 2019-2021**
     <br>
     Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
+
 **Visiting Student, Summer 2017**
     <br>
     Department of BME in USC Viterbi School of Engineering, Los Angeles, CA
+    
 **Undergraduate, 2015-2019**
     <br>
     Biomedical Engineering, National Cheng Kung University, Tainan, Taiwan
