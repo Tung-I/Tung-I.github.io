@@ -17,11 +17,11 @@ classes: wide
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, where I am working with Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Previously, I received a Master degree in Computer Science from National Taiwan University (NTU) where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
+I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, where I am working with Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Previously, I received a M.S. degree in Computer Science from National Taiwan University (NTU) where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
 
-I am working at the intersection of video streaming and machine learning. Currently, my researh focuses on immersive video conferencing systems where remote and physical participants can meet, face each other, and have natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render 3D visual media with low latency. The challenge is to minimize bandwidth consumption and the latency of machine learning inference while preserving a satisfactory level of visual quality.
+I am working at the intersection of video streaming and machine learning. Currently, my research focuses on immersive video conferencing systems where remote participants and those in physical attendance can interact face-to-face, fostering natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render 3D visual media with low latency. The challenge is to minimize bandwidth consumption and the latency of machine learning inference while preserving a satisfactory level of visual quality.
 
-Before starting my Ph.D., I've worked on applying few-shot learning to computer vision tasks, such as improving the generalizability and adaptability of an object detector.
+Before starting my Ph.D., I worked on applying few-shot learning to computer vision tasks, such as improving the generalizability and adaptability of an object detector.
 
 
 
@@ -73,9 +73,9 @@ Before starting my Ph.D., I've worked on applying few-shot learning to computer 
 ## Experiences
 **Teaching Assistant, Fall 2023**
     <br>
-    CS578 Distributed Computing and Systems, UMass CICS
+    CS578 Distributed Computing and Systems, University of Massachusetts Amherst, Amherst, MA
 
-**Ph.D. Student, Spring 2023-**
+**Ph.D. Student, 2023-present**
     <br>
     College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA
 
@@ -89,11 +89,11 @@ Before starting my Ph.D., I've worked on applying few-shot learning to computer 
 
 **Visiting Student, Summer 2017**
     <br>
-    Department of BME in USC Viterbi School of Engineering, Los Angeles, CA
-    
+    Department of Biomedical Engineering, University of Southern California, Los Angeles, CA
+
 **Undergraduate, 2015-2019**
     <br>
-    Biomedical Engineering, National Cheng Kung University, Tainan, Taiwan
+    Department of Biomedical Engineering, National Cheng Kung University, Tainan, Taiwan
 
 
 <!-- ## Activities and Honors
