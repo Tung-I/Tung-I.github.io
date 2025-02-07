@@ -17,32 +17,23 @@ classes: wide
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, where I am working with Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Previously, I received a M.S. degree in Computer Science from National Taiwan University (NTU) where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
+I am a Computer Science Ph.D. student at the University of Massachusetts (UMass) Amherst, advised by Professor [Ramesh K. Sitaraman](https://groups.cs.umass.edu/ramesh/) and Professor [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/). Before joining UMass, I received a M.S. degree in Computer Science from National Taiwan University (NTU), where I worked with Professor [Winston Hsu](https://winstonhsu.info/). 
 
-I am working at the intersection of video streaming and machine learning. Currently, my research focuses on immersive video conferencing systems where remote participants and those in physical attendance can interact face-to-face, fostering natural social interactions. Such a system requires a novel semantic-aware content distribution framework that can capture, compress, deliver, and render 3D visual media with low latency. The challenge is to minimize bandwidth consumption and the latency of machine learning inference while preserving a satisfactory level of visual quality.
+My research sits at the intersection of video streaming and machine learning, focusing on practical volumetric video streaming systems. In particular, I develop neural-enhanced content-distribution frameworks that capture, compress, deliver, and render 3D visual media. This entails minimizing both the size of the 3D representations and the ML inference latency, all while preserving high visual quality. Currently, I am exploring on-the-fly edge transcoding for 3D Gaussian Splatting, leveraging standard video codecs to compress feature planes.
 
-Before starting my Ph.D., I worked on applying few-shot learning to computer vision tasks, such as improving the generalizability and adaptability of an object detector.
+Prior to my Ph.D. work, I focused on few-shot learning in computer vision, with applications that enhance the generalizability and adaptability of object detectors.
 
 
 
 
 ## Selected Publications
 
-**CFVS: Coarse-to-Fine Visual Servoing for 6-DoF Object-Agnostic Peg-In-Hole Assembly**
+**VM-NIF: Real-time View Morphing via Neural Implicit Function**
     <br>
-    Bo-Siang Lu, **Tung-I Chen**, H.-Y. Lee, Winston H Hsu
+    **Tung-I Chen**, D.-Y. Lee, G.-M. Su, Mohammad Hajiesmaili, Ramesh K. Sitaraman
     <br>
-    Accepted by International Conference on Robotics and Automation (ICRA), 2023
-    <br>
-    \[[Paper](https://arxiv.org/abs/2209.08864)\]
+    Under Submission, Patent Filed by Dolby
 
-**Coarse-to-Fine Point Cloud Registration with SE (3)-Equivariant Representations**
-    <br>
-    Cheng-Wei Lin, **Tung-I Chen**, H.-Y. Lee, W.-C. Chen, Winston H Hsu
-    <br>
-    Accepted by International Conference on Robotics and Automation (ICRA), 2023
-    <br>
-    \[[Paper](https://arxiv.org/abs/2210.02045)\]
 
 **Dynamic Density-Aware Active Domain Adaptation for Semantic Segmentation**
     <br>
@@ -71,6 +62,14 @@ Before starting my Ph.D., I worked on applying few-shot learning to computer vis
 
 
 ## Experiences
+**PhD Research Intern- Imaging Research, Summer 2024**
+    <br>
+    Dolby Advanced Technology Group, Sunnyvale, CA
+
+**Teaching Assistant, Fall 2024**
+    <br>
+    CS311 Introduction to Algorithms, University of Massachusetts Amherst, Amherst, MA
+
 **Teaching Assistant, Fall 2023**
     <br>
     CS578 Distributed Computing and Systems, University of Massachusetts Amherst, Amherst, MA
@@ -79,17 +78,9 @@ Before starting my Ph.D., I worked on applying few-shot learning to computer vis
     <br>
     College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA
 
-**Research Assistant, 2021-2022**
-    <br>
-    Communications and Multimedia Lab, National Taiwan University, Taipei, Taiwan
-
 **M.S. Student, 2019-2021**
     <br>
     Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan
-
-**Visiting Student, Summer 2017**
-    <br>
-    Department of Biomedical Engineering, University of Southern California, Los Angeles, CA
 
 **Undergraduate, 2015-2019**
     <br>
