@@ -1,6 +1,6 @@
 main:
-  - title: "CV"
-    url: "/assets/pdf/TungIChen_CV_2024.pdf"
+  # - title: "CV"
+  #   url: "/assets/pdf/TungIChen_CV_2024.pdf"
     # url: /research
   # - title: "Blog"
   #   url: /blog
